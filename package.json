@@ -1,0 +1,24 @@
+{
+  "name": "money-tracker",
+  "version": "1.0.0",
+  "description": "The simplest way to keep track of all you income and outcome.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "money",
+    "balance",
+    "track",
+    "finance",
+    "wallet"
+  ],
+  "author": "Szabo Cristian",
+  "license": "ISC",
+  "dependencies": {
+    "cli-box": "^5.0.0",
+    "extfs": "0.0.7",
+    "le-table": "^4.0.0",
+    "strftime": "^0.9.2"
+  }
+}

@@ -1,0 +1,7 @@
+*.swp
+*.swo
+*~
+*.log
+node_modules
+categories.json
+database.json
